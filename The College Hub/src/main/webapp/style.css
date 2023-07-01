@@ -1,0 +1,65 @@
+@charset "ISO-8859-1";
+
+.slider-tagline-bg{
+	background:rgba(123,12,67,0.3);
+}
+
+.mission{
+	background:#787487;
+	color:#fff;
+}
+
+.objective{
+	border:none;
+}
+	
+	
+.message{
+	border-right:30px solid #536373;
+}	
+
+.researchTitle:hover{
+	background:#000;
+	color:#fff;
+	transition:1s;
+}
+
+.verdana{
+	font-family:verdana;
+}
+
+.max-width{
+	max-width:100%;
+	height: auto;
+}
+
+#fq-box1,#fq-box2,#fq-box3{
+	display:none;
+}
+	
+.text-e1e1e1{
+	color:#e1e1e1;
+}	
+
+.white-link{
+	text-decoration:none;
+	color:#fff;
+}
+
+.white-link:hover{
+	text-decoration:underline;
+	color:#fff;
+}
+
+.bg-ff6900{
+	background:#b7b9a6;	
+}
+
+.background-image-arts{
+	background-image:url('photos/Department-photo.jpg');
+	background-size:cover;
+}
+
+.dept-color{
+	color:#F1C4C0;
+}
